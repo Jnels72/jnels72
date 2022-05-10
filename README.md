@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is John Nelson and I am currently a student level ASP.Net Web Applications Developer.
+
 <!--
 **Jnels72/jnels72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
